@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axelskold93 aka Axel Sköld from Sweden.
 - 👀 I’m interested in software development and IT in general.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React.js
-- 📫 How to reach me: axelskold@gmail.com
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React.js.
+- 📫 How to reach me: axelskold@gmail.com.
 
 
 🥷 Skillset:
